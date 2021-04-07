@@ -1,0 +1,17 @@
+{
+  "name": "jsonwebtokenproject",
+  "version": "1.0.0",
+  "description": "Forma de autenticacion de Node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Francisco Jimenez",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
